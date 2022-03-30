@@ -23,3 +23,5 @@ elsif user_input == "W"
 else
   puts "your balance is #{balance}"
 end
+
+puts "Thanks for visiting Coder bank, hope to see you again soon"
